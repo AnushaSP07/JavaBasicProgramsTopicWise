@@ -8,6 +8,8 @@ public class AnagramStringOrNot {
 		String s1 = "grab";
 		String s2 = "brag";
 		anagramOrNot(s1, s2);
+
+		
 	}
 
 	private static boolean anagramOrNot(String s1, String s2) {
